@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Terrence.
+- 👀 I’m a developer who is currently completing a Bachelor's degree in Information Technology.
+- 🌱 I’m currently learning MEAN stack in a coding bootcamp and find myself falling in love with JAMstack.
+- 💞️ I’m looking to collaborate on various projects to expand my skills.
+- 📫 Check out my portfolio here to find contact info. 
