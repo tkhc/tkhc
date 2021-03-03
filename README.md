@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Terrence.
 - 👀 I’m a developer who is currently completing a Bachelor's degree in Information Technology.
-- 🌱 I’m currently learning MEAN stack development in a coding bootcamp
+- 🌱 I’m currently learning MEAN stack development at a coding bootcamp
 - 💞️ I’m looking to collaborate on various projects to expand my skills.
-- 📫 Check out my portfolio here to find contact info. 
+- 📫 Check out my projects here and find me on https://www.linkedin.com/in/terrencekhchan/. 
