@@ -5,4 +5,3 @@
 - 📫 Check out my projects here and find me on [Linkedin](https://www.linkedin.com/in/terrencekhchan/). 
 
 ![react](https://user-images.githubusercontent.com/45925621/110719864-390a7000-81d3-11eb-9f7e-bffe6e2e8e9c.png)
-![nodejs](https://user-images.githubusercontent.com/45925621/110719872-3d368d80-81d3-11eb-9d2c-10542ceea4b4.png)
